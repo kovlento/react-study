@@ -1,0 +1,9 @@
+.input{
+  border: 3px solid #ae7000;
+}
+.toggole-text-enter{opacity: 0;}
+.toggole-text-enter-active{opacity: 1; transition: opacity 2000ms}
+.toggole-text-enter-done{opacity: 1;}
+.toggole-text-exit{opacity: 1; transform: 2000}
+.toggole-text-exit-active{opacity: 0; transition: opacity 2000ms}
+.toggole-text-exit-done{opacity: 0;}
