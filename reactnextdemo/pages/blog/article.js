@@ -1,0 +1,1 @@
+export default ()=><div>Article Page</div>
